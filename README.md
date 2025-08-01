@@ -92,6 +92,8 @@ Real-World Applications:
 * Customer segmentation
 * Recommendation system
 
-OUTPUT:<img width="840" height="350" alt="Image" src="https://github.com/user-attachments/assets/3331a950-e9bb-4a32-b257-116807a91097" />
+OUTPUT:
+
+<img width="840" height="350" alt="Image" src="https://github.com/user-attachments/assets/3331a950-e9bb-4a32-b257-116807a91097" />
 
 <img width="1059" height="624" alt="Image" src="https://github.com/user-attachments/assets/3c4b8417-b5b9-4c5d-8ba1-cd596dcb69f1" />
